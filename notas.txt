@@ -1,0 +1,4 @@
+Línea 1: Git guarda el historial del proyecto. 
+Línea 2: Modificada
+Línea 3: Las ramas permiten trabajar sin dañar main.
+Hola Línea 4
